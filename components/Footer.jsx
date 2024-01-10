@@ -2,7 +2,7 @@ function Footer() {
   return (
     <footer className="footer-part">
       <img
-        src="/images/spotify.png"
+        src= "/images/spotify.png"
         alt="spotify logo"
         width="140px"
         height="80px"
